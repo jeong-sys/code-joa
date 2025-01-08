@@ -1,7 +1,12 @@
 # 6팀 깃헙 협업 연습
 
+# 6팀의 미니 홈페이지
+
 ## 상품 추가
 - ITEM.md 추가
+
+## 상품 수정
+- UPDATEITEM.md 추가
 
 ## **Commit Message Convention**
 
