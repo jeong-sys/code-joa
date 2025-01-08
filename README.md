@@ -1,8 +1,5 @@
 # 6팀 깃헙 협업 연습
 
-## 상품 추가
-- ITEM.md 추가
-
 ## **Commit Message Convention**
 
 ```
